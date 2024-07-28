@@ -1,4 +1,4 @@
-const URL = "https://pixabay.com/api";
+const URL = "https://pixabay.com/api/";
 const API_KEY = "45132355-1a938d4dc3b6908ed12965e8f";
 
 const receivingDataFromServer = (requestItem) => {
